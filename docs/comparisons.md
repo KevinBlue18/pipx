@@ -45,7 +45,7 @@ Install a Python interpreter with pyenv, then install a package using pipx and t
 * pipx works with Python homebrew installations while pipsi does not (at least on my machine)
 * pipx defaults to less verbose output
 * pipx allows you to see each command it runs by passing the --verbose flag
-* pipx prints emojies 😀
+* pipx prints emojis 😀
 
 Example interaction:
 None. Either one or the other should be used. These tools compete for a similar workflow.
